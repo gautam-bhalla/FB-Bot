@@ -1,0 +1,6 @@
+{
+  "appSecret": "<Your Secret>",
+  "pageAccessToken": "<Page Access Token>",
+  "validationToken": "<ValidationToken>",
+  "serverURL": "< Server url where hook would be hosted >"
+}
